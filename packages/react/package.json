@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@jv-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@jv-ignite-ui/tokens": "*",
+    "@jv-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
