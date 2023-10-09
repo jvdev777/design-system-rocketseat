@@ -15,6 +15,7 @@
     "@jv-ignite-ui/react": "*",
     "@jv-ignite-ui/tokens": "*",
     "@jv-ignite-ui/ts-config": "*",
+    "@radix-ui/react-tooltip": "^1.0.7",
     "@storybook/addon-a11y": "^7.4.5",
     "polished": "^4.2.2",
     "react": "^18.2.0",
