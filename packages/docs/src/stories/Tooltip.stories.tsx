@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, Tooltip, TooltipProps } from '@jv-ignite-ui/react'
+import { Button, Tooltip } from '@jv-ignite-ui/react'
 
 export default {
   title: 'Form/Tooltip',
@@ -9,6 +9,6 @@ export default {
     content: 'This is a Tooltip'
 
   },
-} as Meta<TooltipProps>
+} as Meta
 
-export const Primary: StoryObj<TooltipProps> = {}
+export const Primary: StoryObj = {}
